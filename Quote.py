@@ -10,3 +10,4 @@ print("Than to rot as a Shadow in safe corners.")
 print("----------")
 print("The world Despises a willing slave,")
 print("But it bows to the beast that refuses to be tamed.")
+#Master
