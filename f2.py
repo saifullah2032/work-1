@@ -1,0 +1,7 @@
+print("Hello, World!")
+print("If you seek my name, look where the broken things lie,")
+print("In the corners of ruin beneath a cold sky.")
+print("I may be a stranger to all that is whole,")
+print("Yet failure is everything claiming my soul.")
+print("--------------")
+print("Update for you/ f2.py ")

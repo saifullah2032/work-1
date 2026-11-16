@@ -1,0 +1,6 @@
+print("Hello, World!")
+print("Death—the only wish that stayed constant while the seasons of my pain kept shifting;")
+print("like every other prayer, it remains unanswered, though its alternative is far crueler.")
+print("It is the sole peace left on the horizon,")
+print("yet every breath required to reach it feels like a war.")
+print("--------------")
